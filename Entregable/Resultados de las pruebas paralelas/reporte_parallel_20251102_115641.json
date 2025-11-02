@@ -1,0 +1,130 @@
+{
+    "fecha": "2025-11-02 11:56:41",
+    "modo": "simulado",
+    "consultas_totales": 15,
+    "consultas_exitosas": 15,
+    "consultas_con_error": 0,
+    "tiempo_total_segundos": 10.73,
+    "detalles": [
+        {
+            "id_prueba": 5,
+            "cedula": "1000000005",
+            "resultado": "ok (simulado)",
+            "tiempo": 1.79,
+            "json": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmpin4a73zy\\02112025 115631_0000000000_Nombre Prueba Testing_b02d74c6-b4d.json",
+            "db": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmpin4a73zy\\informacion.db"
+        },
+        {
+            "id_prueba": 2,
+            "cedula": "1000000002",
+            "resultado": "ok (simulado)",
+            "tiempo": 2.87,
+            "json": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmp_dek5deo\\02112025 115631_0000000000_Nombre Prueba Testing_dfc4145c-747.json",
+            "db": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmp_dek5deo\\informacion.db"
+        },
+        {
+            "id_prueba": 1,
+            "cedula": "1000000001",
+            "resultado": "ok (simulado)",
+            "tiempo": 3.31,
+            "json": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmpds69qxh3\\02112025 115631_0000000000_Nombre Prueba Testing_00b5f0ef-844.json",
+            "db": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmpds69qxh3\\informacion.db"
+        },
+        {
+            "id_prueba": 4,
+            "cedula": "1000000004",
+            "resultado": "ok (simulado)",
+            "tiempo": 3.39,
+            "json": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmp4bggghvt\\02112025 115631_0000000000_Nombre Prueba Testing_13c49671-ce6.json",
+            "db": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmp4bggghvt\\informacion.db"
+        },
+        {
+            "id_prueba": 6,
+            "cedula": "1000000006",
+            "resultado": "ok (simulado)",
+            "tiempo": 1.94,
+            "json": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmpaw574vw7\\02112025 115633_0000000000_Nombre Prueba Testing_5689a9f3-b30.json",
+            "db": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmpaw574vw7\\informacion.db"
+        },
+        {
+            "id_prueba": 3,
+            "cedula": "1000000003",
+            "resultado": "ok (simulado)",
+            "tiempo": 3.85,
+            "json": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmpqhgxvyko\\02112025 115631_0000000000_Nombre Prueba Testing_b1ec5570-a78.json",
+            "db": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmpqhgxvyko\\informacion.db"
+        },
+        {
+            "id_prueba": 9,
+            "cedula": "1000000009",
+            "resultado": "ok (simulado)",
+            "tiempo": 2.4,
+            "json": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmputsvqt4a\\02112025 115635_0000000000_Nombre Prueba Testing_99aef1ea-01f.json",
+            "db": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmputsvqt4a\\informacion.db"
+        },
+        {
+            "id_prueba": 7,
+            "cedula": "1000000007",
+            "resultado": "ok (simulado)",
+            "tiempo": 3.3,
+            "json": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmpl9kt1mub\\02112025 115634_0000000000_Nombre Prueba Testing_e8993c9b-a31.json",
+            "db": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmpl9kt1mub\\informacion.db"
+        },
+        {
+            "id_prueba": 8,
+            "cedula": "1000000008",
+            "resultado": "ok (simulado)",
+            "tiempo": 3.33,
+            "json": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmperppde2b\\02112025 115635_0000000000_Nombre Prueba Testing_6419fd32-228.json",
+            "db": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmperppde2b\\informacion.db"
+        },
+        {
+            "id_prueba": 11,
+            "cedula": "1000000011",
+            "resultado": "ok (simulado)",
+            "tiempo": 3.49,
+            "json": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmpnfa3rab9\\02112025 115635_0000000000_Nombre Prueba Testing_c35d6e5e-f28.json",
+            "db": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmpnfa3rab9\\informacion.db"
+        },
+        {
+            "id_prueba": 10,
+            "cedula": "1000000010",
+            "resultado": "ok (simulado)",
+            "tiempo": 3.83,
+            "json": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmpo50_6rne\\02112025 115635_0000000000_Nombre Prueba Testing_4209e303-054.json",
+            "db": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmpo50_6rne\\informacion.db"
+        },
+        {
+            "id_prueba": 13,
+            "cedula": "1000000013",
+            "resultado": "ok (simulado)",
+            "tiempo": 1.69,
+            "json": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmpukiz08gg\\02112025 115637_0000000000_Nombre Prueba Testing_addcfe24-f36.json",
+            "db": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmpukiz08gg\\informacion.db"
+        },
+        {
+            "id_prueba": 14,
+            "cedula": "1000000014",
+            "resultado": "ok (simulado)",
+            "tiempo": 2.13,
+            "json": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmpb89ks67l\\02112025 115638_0000000000_Nombre Prueba Testing_323ccab2-71d.json",
+            "db": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmpb89ks67l\\informacion.db"
+        },
+        {
+            "id_prueba": 12,
+            "cedula": "1000000012",
+            "resultado": "ok (simulado)",
+            "tiempo": 3.11,
+            "json": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmp_wp90n_h\\02112025 115637_0000000000_Nombre Prueba Testing_08b72299-d9f.json",
+            "db": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmp_wp90n_h\\informacion.db"
+        },
+        {
+            "id_prueba": 15,
+            "cedula": "1000000015",
+            "resultado": "ok (simulado)",
+            "tiempo": 2.96,
+            "json": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmp41z20mxc\\02112025 115638_0000000000_Nombre Prueba Testing_d896b031-2e8.json",
+            "db": "C:\\Users\\socra\\AppData\\Local\\Temp\\tmp41z20mxc\\informacion.db"
+        }
+    ]
+}

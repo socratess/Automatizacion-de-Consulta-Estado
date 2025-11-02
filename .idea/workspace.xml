@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84ee35a6-a196-4db5-a446-485c5c03504e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/consulta_cedula_automation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Entregable/ Base de datos o archivos con información extraída/02112025 123023_0000000000_Nombre Prueba Testing_8dceb51c-980.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Entregable/ Base de datos o archivos con información extraída/informacion.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Entregable/Archivo README con instrucciones de instalación y ejecución/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Entregable/Resultados de las pruebas paralelas/reporte_parallel_20251102_115641.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Entregable/Suite de tests implementados/test_integration_flujo_completo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Entregable/Suite de tests implementados/test_parallel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Entregable/Suite de tests implementados/test_pdf_extraccion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Entregable/Suite de tests implementados/test_storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Entregable/Suite de tests implementados/test_suite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/configuration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/create_pdf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/orc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pdf_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scraping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_integration_flujo_completo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_parallel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_pdf_extraccion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_suite.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="34l80xb64jzxMNJWv93reevlYec" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Doctests in create_pdf.executor": "Run",
+    "Python tests.Python tests in Test_Pdf_Extraccion.py.executor": "Run",
+    "Python tests.Python tests in test_integration_flujo_completo.py.executor": "Run",
+    "Python tests.Python tests in test_parallel.py.executor": "Run",
+    "Python tests.Python tests in test_pdf_extraccion_parser.py.executor": "Run",
+    "Python tests.Python tests in test_storage.py.executor": "Run",
+    "Python tests.Python tests in testpdfextraccionparser.py.executor": "Run",
+    "Python.configuration.executor": "Run",
+    "Python.create_pdf.executor": "Run",
+    "Python.ejemplo.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.orc.executor": "Run",
+    "Python.pdf_parser.executor": "Run",
+    "Python.scraping.executor": "Run",
+    "Python.storage.executor": "Run",
+    "Python.temporal.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/socra/PycharmProjects/consulta_cedula_automation/Entregable/Archivo README con instrucciones de instalación y ejecución",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\socra\PycharmProjects\consulta_cedula_automation\Entregable\Archivo README con instrucciones de instalación y ejecución" />
+      <recent name="C:\Users\socra\PycharmProjects\consulta_cedula_automation\Entregable\Código fuente documentado" />
+      <recent name="C:\Users\socra\PycharmProjects\consulta_cedula_automation\Entregable\ Base de datos o archivos con información extraída" />
+      <recent name="C:\Users\socra\PycharmProjects\consulta_cedula_automation\Entregable\Suite de tests implementados" />
+      <recent name="C:\Users\socra\PycharmProjects\consulta_cedula_automation\Entregable" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\socra\PycharmProjects\consulta_cedula_automation\Entregable\Resultados de las pruebas paralelas" />
+      <recent name="C:\Users\socra\PycharmProjects\consulta_cedula_automation\test" />
+      <recent name="C:\Users\socra\PycharmProjects\consulta_cedula_automation\data" />
+      <recent name="C:\Users\socra\PycharmProjects\consulta_cedula_automation\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ejemplo">
+    <configuration name="create_pdf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="consulta_cedula_automation" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/create_pdf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ejemplo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="consulta_cedula_automation" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ejemplo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ejemplo" />
+        <item itemvalue="Python.create_pdf" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.26830.99" />
+        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84ee35a6-a196-4db5-a446-485c5c03504e" name="Changes" comment="" />
+      <created>1761776578334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761776578334</updated>
+      <workItem from="1761776579423" duration="29951000" />
+      <workItem from="1761851122137" duration="1340000" />
+      <workItem from="1761854456216" duration="13232000" />
+      <workItem from="1761873670955" duration="17112000" />
+      <workItem from="1761899495548" duration="2935000" />
+      <workItem from="1761964442829" duration="7480000" />
+      <workItem from="1761973898612" duration="17473000" />
+      <workItem from="1762021342562" duration="68956000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/consulta_cedula_automation$storage.coverage" NAME="storage Coverage Results" MODIFIED="1762042989207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/consulta_cedula_automation$scraping.coverage" NAME="scraping Coverage Results" MODIFIED="1761878783641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/consulta_cedula_automation$orc.coverage" NAME="orc Coverage Results" MODIFIED="1761855578898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/consulta_cedula_automation$configuration.coverage" NAME="configuration Coverage Results" MODIFIED="1761866226410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/consulta_cedula_automation$temporal.coverage" NAME="temporal Coverage Results" MODIFIED="1762021433690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/consulta_cedula_automation$.coverage" NAME=" Coverage Results" MODIFIED="1762065331867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/consulta_cedula_automation$main.coverage" NAME="main Coverage Results" MODIFIED="1762056452106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/consulta_cedula_automation$pdf_parser.coverage" NAME="pdf_parser Coverage Results" MODIFIED="1762044553234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/consulta_cedula_automation$Doctests_in_create_pdf.coverage" NAME="Doctests in create_pdf Coverage Results" MODIFIED="1762103960142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/consulta_cedula_automation$ejemplo.coverage" NAME="ejemplo Coverage Results" MODIFIED="1762106290273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/consulta_cedula_automation$create_pdf.coverage" NAME="create_pdf Coverage Results" MODIFIED="1762104144054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+</project>
