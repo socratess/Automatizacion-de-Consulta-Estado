@@ -5,38 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84ee35a6-a196-4db5-a446-485c5c03504e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/consulta_cedula_automation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Entregable/ Base de datos o archivos con información extraída/02112025 123023_0000000000_Nombre Prueba Testing_8dceb51c-980.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Entregable/ Base de datos o archivos con información extraída/informacion.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Entregable/Archivo README con instrucciones de instalación y ejecución/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Entregable/Resultados de las pruebas paralelas/reporte_parallel_20251102_115641.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Entregable/Suite de tests implementados/test_integration_flujo_completo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Entregable/Suite de tests implementados/test_parallel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Entregable/Suite de tests implementados/test_pdf_extraccion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Entregable/Suite de tests implementados/test_storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Entregable/Suite de tests implementados/test_suite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/configuration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/create_pdf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/orc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pdf_parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scraping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_integration_flujo_completo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_parallel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_pdf_extraccion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_suite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +52,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/socra/PycharmProjects/consulta_cedula_automation/Entregable/Archivo README con instrucciones de instalación y ejecución",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -190,7 +159,7 @@
       <workItem from="1761899495548" duration="2935000" />
       <workItem from="1761964442829" duration="7480000" />
       <workItem from="1761973898612" duration="17473000" />
-      <workItem from="1762021342562" duration="68956000" />
+      <workItem from="1762021342562" duration="69839000" />
     </task>
     <servers />
   </component>
