@@ -1,4 +1,4 @@
-# 🪪 Sistema de Scraping de Certificados
+# Sistema de Scraping de Certificados
 
 ## 📘 Descripción General
 Este sistema automatiza la **consulta, descarga, lectura y almacenamiento** del certificado.  
