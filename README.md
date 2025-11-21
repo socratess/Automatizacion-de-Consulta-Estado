@@ -1,3 +1,4 @@
+![banner](assets/banner.png)
 # Sistema de Scraping de Certificados
 
 ## 📘 Descripción General
