@@ -1,4 +1,4 @@
-# 🪪 Sistema de Scraping de Certificados de Cédula – Registraduría Nacional
+# 🪪 Sistema de Scraping de Certificados de Cédula
 
 ## 📘 Descripción General
 Este sistema automatiza la **consulta, descarga, lectura y almacenamiento** del certificado de vigencia de cédula de ciudadanía de la Registraduría Nacional del Estado Civil de Colombia.  
