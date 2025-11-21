@@ -1,7 +1,7 @@
-# 🪪 Sistema de Scraping de Certificados de Cédula
+# 🪪 Sistema de Scraping de Certificados
 
 ## 📘 Descripción General
-Este sistema automatiza la **consulta, descarga, lectura y almacenamiento** del certificado de vigencia de cédula de ciudadanía de la Registraduría Nacional del Estado Civil de Colombia.  
+Este sistema automatiza la **consulta, descarga, lectura y almacenamiento** del certificado.  
 
 El proyecto está desarrollado en **Python**, y permite:
 - Automatizar el llenado de formularios y descarga de certificados (vía **Selenium**).  
