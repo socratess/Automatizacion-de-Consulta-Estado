@@ -90,7 +90,7 @@ pip install -r requirements.txt
 
 ### 🔹 Modo Real (Scraping del portal oficial)
 
-Este modo abre el navegador, llena los datos y descarga el certificado real desde la Registraduría.
+Este modo abre el navegador, llena los datos y descarga el certificado.
 
 ```bash (debe estar en la raiz del proyecto)
 python -m src.main
@@ -204,7 +204,7 @@ python -m unittest discover -s test
 
 ## ⚠️ Consideraciones Legales y Éticas
 Este sistema fue creado **con fines académicos y de investigación técnica**.  
-No debe usarse para automatizar consultas reales ni masivas al portal oficial de la **Registraduría Nacional del Estado Civil**.  
+No debe usarse para automatizar consultas reales ni masivas al portal oficial.  
 
 ---
 
