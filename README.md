@@ -16,7 +16,7 @@ El proyecto está desarrollado en **Python**, y permite:
 ## Instalación del Proyecto
 
 Clonar o descargar el repositorio
-git clone https://github.com/socratess/Automatizacion-de-Consulta-Estado.git
+git clone <link>
 
 ## 🧱 Estructura del Proyecto
 
