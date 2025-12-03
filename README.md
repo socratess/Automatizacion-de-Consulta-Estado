@@ -16,7 +16,7 @@ El proyecto está desarrollado en **Python**, y permite:
 ## Instalación del Proyecto
 
 Clonar o descargar el repositorio
-git clone <link>
+git clone https://github.com/devmakerstudio/Automatizacion-de-Consulta-Estado
 
 ## 🧱 Estructura del Proyecto
 
